@@ -51,9 +51,9 @@ export default {
     // 弹窗阻止页面滚动
     stopScroll() {
       document.body.style.top = '0'
-      document.body.style.position = 'fixed'
+      // document.body.style.position = 'fixed'
       document.body.style.height = '100%'
-      document.body.style.overflow = 'hidden'
+      // document.body.style.overflow = 'hidden'
     },
     // 回复页面滚动
     autoScroll() {

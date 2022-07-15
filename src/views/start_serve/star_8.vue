@@ -1,15 +1,7 @@
 <template>
   <div class="intr_box">
     <!-- 面包屑 -->
-    <el-breadcrumb class="tabs" separator-class="el-icon-arrow-right">
-      <el-breadcrumb-item :to="{ path: '/' }">首页</el-breadcrumb-item>
-      <el-breadcrumb-item :to="{ path: '/start_serve/start_serve' }"
-      >五星服务</el-breadcrumb-item
-      >
-      <el-breadcrumb-item :to="{ path: '/start_serve/star_8' }"
-      >文化交流</el-breadcrumb-item
-      >
-    </el-breadcrumb>
+    
     <!-- 第二部分 -->
     <div class="helth-sys">
       <h2>老年大学</h2>
@@ -68,22 +60,22 @@
 </template>
 <script>
 import { ListItem } from "../../components/index.js";
-import book1 from "../../assets/book.png";
-import book2 from "../../assets/book2.png";
-import book3 from "../../assets/book3.png";
-import book4 from "../../assets/book4.png";
-import book5 from "../../assets/book5.png";
-import book6 from "../../assets/book6.png";
-import book7 from "../../assets/book7.png";
-import book8 from "../../assets/book8.png";
+import book1 from "../../assets/book.jpeg";
+import book2 from "../../assets/book2.jpeg";
+import book3 from "../../assets/book3.jpeg";
+import book4 from "../../assets/book4.jpg";
+import book5 from "../../assets/book5.jpeg";
+import book6 from "../../assets/book6.jpeg";
+import book7 from "../../assets/book7.jpeg";
+import book8 from "../../assets/book8.jpeg";
 
-import dance1 from '../../assets/dance.png'
-import dance2 from '../../assets/dance2.png'
-import dance3 from '../../assets/dance3.png'
+import dance1 from '../../assets/dance.jpeg'
+import dance2 from '../../assets/dance1.jpeg'
+import dance3 from '../../assets/dance2.jpeg'
 
-import q1 from '../../assets/q1.png'
-import q2 from '../../assets/q2.png'
-import q3 from '../../assets/q3.png'
+import q1 from '../../assets/q1.jpeg'
+import q2 from '../../assets/q2.jpeg'
+import q3 from '../../assets/q3.jpeg'
 export default {
   name: "",
   components: { ListItem },

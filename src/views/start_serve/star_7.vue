@@ -1,10 +1,6 @@
 <template>
   <div class="nursing">
-    <el-breadcrumb class="tabs" separator-class="el-icon-arrow-right">
-      <el-breadcrumb-item :to="{ path: '/' }">首页</el-breadcrumb-item>
-      <el-breadcrumb-item :to="{ path: '/start_serve/start_serve' }">五星服务</el-breadcrumb-item>
-      <el-breadcrumb-item :to="{ path: '/start_serve/star_7' }">健康管理服务</el-breadcrumb-item>
-    </el-breadcrumb>
+  
     <!-- 健康系统 -->
     <div class="helth-sys">
       <h2>全面多维度健康服务模式</h2>

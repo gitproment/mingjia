@@ -75,15 +75,15 @@
         <div class="left-box">
           <div class="top">
              <div class="text-wrap">
-                <h3>五星级康复院将接入医社保</h3>
+                <h3>康复医院、护理院均接入医保</h3>
                 <p>智慧康养社区老人在康复医院看病可用医保</p>
               </div>
               <img  src="../assets/in_btm1.png" alt="">
           </div>
           <div class="top">
              <div class="text-wrap">
-                <h3>专业高素质的服务管理团队</h3>
-                <p>康养社区设有专业人才培训部门，结合学院的人才输送，将为康养社区提供完善的人才保障</p>
+                <h3>全面多维度健康服务模式</h3>
+                <p>社区配套两家医院，针对长者推出“私人健康管理师”，为长者制定专业的健康管理方案</p>
               </div>
               <img src="../assets/in_btm2.png" alt="">
               </div>

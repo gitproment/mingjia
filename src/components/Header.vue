@@ -19,8 +19,8 @@
       <el-submenu index="/start_serve">
         <template  slot="title">五星服务</template>
         <el-menu-item index="/start_serve/star_7">健康管理</el-menu-item>
-        <el-menu-item index="/start_serve/star_8">文化交流</el-menu-item>
-        <el-menu-item index="/start_serve/star_9">老年大学</el-menu-item>
+        <el-menu-item index="/start_serve/star_9">休闲娱乐</el-menu-item>
+        <el-menu-item index="/start_serve/star_8">老年大学</el-menu-item>
         <el-menu-item index="/start_serve/star_10">科学膳食</el-menu-item>
         <el-menu-item index="/start_serve/star_11">时间银行</el-menu-item>
       </el-submenu>

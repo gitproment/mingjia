@@ -12,10 +12,7 @@
         <img src="../assets/concatNumber.png" alt="">
       </div>
       <div class="footer_nav">
-        <div style="width:300px;margin:0 auto; padding:20px 0;">
-          <a target="_blank" href="#" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
-            <p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px -30px; color:#939393;">邮箱：liweiyi@mingjiakangyang.com</p >
-          </a>
+        <div style="width:300px;margin:0 auto; padding:20px 0;">  
           <a target="_blank" href="#" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;width: 600px">
             <p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">地址：山东省德州市德城区黄河涯镇鑫秋社区北临德公馆1排1号</p >
           </a>
@@ -31,7 +28,14 @@
       <div class="footer_vx">
         <p class="watch_vx">关注公众号</p>
         <p class="vx_code">
-          <img src="../assets/code.jpeg" alt="">
+          <img src="../assets/公众号.jpg" alt="">
+        </p>
+      </div>
+
+       <div class="footer_vx">
+        <p class="watch_vx">关注小程序</p>
+        <p class="vx_code">
+          <img src="../assets/小程序.jpg" alt="">
         </p>
       </div>
 
