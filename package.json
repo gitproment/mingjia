@@ -7,7 +7,8 @@
     "dev": "vue-cli-service build --mode development",
     "test": "vue-cli-service build --mode test",
     "pro": "vue-cli-service build --mode production",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "build:pre": "vue-cli-service build --mode pre-production"
   },
   "dependencies": {
     "core-js": "^3.8.3",
@@ -21,6 +22,7 @@
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-eslint": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
+    "compression-webpack-plugin": "^10.0.0",
     "eslint": "^7.32.0",
     "eslint-plugin-vue": "^8.0.3",
     "vue-template-compiler": "^2.6.14"
