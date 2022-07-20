@@ -107,35 +107,35 @@ export default {
       listData: [
         {
           imgUrl: book1,
-          title: "身体状况",
+          title: "花卉培育",
         },
         {
           imgUrl: book2,
-          title: "兴趣爱好",
+          title: "绘画",
         },
         {
           imgUrl: book3,
-          title: "饮食习惯",
+          title: "烹饪",
         },
         {
           imgUrl: book4,
-          title: "饮食习惯",
+          title: "摄影",
         },
         {
           imgUrl: book5,
-          title: "身体状况",
+          title: "书法",
         },
         {
           imgUrl: book6,
-          title: "兴趣爱好",
+          title: "陶艺",
         },
         {
           imgUrl: book7,
-          title: "饮食习惯",
+          title: "音乐",
         },
         {
           imgUrl: book8,
-          title: "饮食习惯",
+          title: "瑜伽",
         },
       ],
     };
