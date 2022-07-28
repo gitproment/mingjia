@@ -4,7 +4,7 @@ const CompressionPlugin  = require('compression-webpack-plugin')
 module.exports = defineConfig({
   transpileDependencies: true,
   lintOnSave:false,
-  publicPath: '/mingtest/',
+  publicPath: '/',
   chainWebpack: (config) => {
     // 生产环境，开启js\css压缩
     if (process.env.NODE_ENV === 'production') {
@@ -14,7 +14,6 @@ module.exports = defineConfig({
         minRatio: 0.5,
       }))
     }
- 
   },
 })
 
