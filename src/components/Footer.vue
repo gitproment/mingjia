@@ -14,7 +14,7 @@
       <div class="footer_nav">
         <div style="width:300px;margin:0 auto; padding:20px 0;">  
           <a target="_blank" href="#" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;width: 600px">
-            <p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">地址：山东省德州市德城区黄河涯镇鑫秋社区北临德公馆1排1号</p >
+            <p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">地址：山东省德州市德城区幸福大道东铭佳康养</p >
           </a>
           <a target="_blank" href="#" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;width: 600px">
             <p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">Copyright © 2013-2022 www.mingjiakangyang.com All Rights Reserved</p >
